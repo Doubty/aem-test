@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem-test--doubty.aem.page/
+- Live: https://main--aem-test--doubty.aem.live/
 
 ## Documentation
 
